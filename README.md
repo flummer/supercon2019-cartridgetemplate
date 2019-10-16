@@ -1,5 +1,7 @@
 # Unofficial KiCad template for a 2019 Hackaday Superconference Badge Cartridge
 
+![Cartridge template render](https://raw.githubusercontent.com/flummer/supercon2019-cartridgetemplate/master/IMAGES/front_back_render.png "Cartridge template render")
+
 This template can be used as a starting point to make a cartridge for the Supercon badge, that will mate with the 40 pin expansion connector on the back of the badge.
 
 | WARNING: This design is unofficial, and has NOT been tested |
