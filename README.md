@@ -9,6 +9,14 @@ This template can be used as a starting point to make a cartridge for the Superc
 
 It's using an angled 2x20 pin male header, a w25q128 SPI flash and a 100nF cap. The schematic has the pins named using global nets, so it's easy to simply add in your own stuff.
 
+## Version 1.2 update
+
+This updated version fixes an error in the pin connections on the cartridge connector (the two columns was flipped for some signals) and adds a copper pour (connected to GND) on the bottom layer too.
+
+## Special note about the original version
+
+If you want to use a PCB based on the original version with incorrect connections, it is possible to make a hardware hack on the 20x2 angeled header, where you move the pins around and bend some of them a bit, very precisely.
+
 ## License
 
 The contents of this repository is released under the following licence:
